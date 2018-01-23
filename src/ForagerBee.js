@@ -8,6 +8,6 @@ var ForagerBee = function() {
 ForagerBee.prototype = Object.create(HoneyMakerBee.prototype);
 ForagerBee.prototype.constructor = ForagerBee;
 
-ForagerBee.prototpe.forage(value){
-  this.treasureChest.push(value);
-}
+// ForagerBee.prototpe.forage(value){
+//   this.treasureChest.push(value);
+// }
